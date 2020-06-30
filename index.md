@@ -8,3 +8,8 @@ When Dantès finds himself free and enormously wealthy, he takes it upon himself
 * has the habit of fiddling with his hair
 * loves Mercédès, a beatiful Catalan girl
 * remains faithful to God
+
+Dantès said:
+
+> The heart breaks when it has swelled too much in the warm breath of hope,
+> then finds itself enclosed in cold reality.
